@@ -1,4 +1,4 @@
 #!/bin/bash
-export GREETINGAPI_DBURL="jdbc:postgresql://contentapi-db/contentapidb"
-export GREETINGAPI_DBUSER="contentapiuser"
-export GREETINGAPI_DBPASS="pass"
+export CONTENTAPI_DBURL="jdbc:postgresql://contentapi-db/contentapidb"
+export CONTENTAPI_DBUSER="contentapiuser"
+export CONTENTAPI_DBPASS="pass"
