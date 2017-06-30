@@ -1,4 +1,4 @@
 #!/bin/bash
-export CONTENTAPI_DBURL="jdbc:postgresql://contentapi-db/contentapidb"
-export CONTENTAPI_DBUSER="contentapiuser"
-export CONTENTAPI_DBPASS="pass"
+export USERAPI_ERRMESSAGE="Sorry, but some error have happened"
+export USERAPI_ADDMESSAGE="User added"
+export USERAPI_DELMESSAGE="user deleted"
